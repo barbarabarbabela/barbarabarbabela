@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a software developer specializing in full-stac
 
 ## Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/barbarabarbabela/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/barbarabarbabela/)
 - 📸 [Instagram](https://instagram.com/barbarabarbabela)
 
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
