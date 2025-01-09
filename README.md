@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a software developer specializing in full-stac
 
 - 🎓 I'm currently pursuing my degree in Analysis and Development of Systems at Estácio University.
 - 💻 I have experience in building web applications and APIs using various frameworks and libraries.
-- 🌍 I'm enthusiastic about open-source projects and collaboration within the developer community.
 - 🏉 I play rugby for the Onças do Vale Rugby team, which has taught me valuable skills in teamwork and resilience.
 
 ## Technologies I Work With
