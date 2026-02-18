@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a software developer specializing in full-stac
 
 ## Technologies I Work With
 
-- **Languages**: JavaScript, TypeScript, Python, Java, React Native
+- **Languages**: JavaScript, TypeScript, Python, React Native
 - **Frameworks**: React, Node.js, Express, Fastify, Springboot, Flask
 - **Databases**: MongoDB, PostgreSQL, SQL Server
 - **Tools**: Git, GitHub, Docker, AWS
@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a software developer specializing in full-stac
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/barbarabarbabela/)
 - 📸 [Instagram](https://instagram.com/barbarabarbabela)
+- 🗂️ [Portfolio](https://barbara-barbabela-portfolio.vercel.app/)
 
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
 
