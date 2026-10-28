@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a software developer specializing in full-stac
 
 - 🎓 I'm currently pursuing my degree in Analysis and Development of Systems at Estácio University.
 - 💻 I have experience in building web applications and APIs using various frameworks and libraries.
-- 🏉 I play rugby for the Onças do Vale Rugby team, which has taught me valuable skills in teamwork and resilience.
 
 ## Technologies I Work With
 
@@ -19,7 +18,5 @@ Welcome to my GitHub profile! I'm a software developer specializing in full-stac
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/barbarabarbabela/)
 - 📸 [Instagram](https://instagram.com/barbarabarbabela)
-- 🗂️ [Portfolio](https://barbara-barbabela-portfolio.vercel.app/)
-
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
 
